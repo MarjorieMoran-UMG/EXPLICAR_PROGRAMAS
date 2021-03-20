@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\RandomToken\bin\Debug\netcoreapp3.1\RandomToken.exe
+C:\Users\Marjorie\Desktop\RandomToken\bin\Debug\netcoreapp3.1\RandomToken.deps.json
+C:\Users\Marjorie\Desktop\RandomToken\bin\Debug\netcoreapp3.1\RandomToken.runtimeconfig.json
+C:\Users\Marjorie\Desktop\RandomToken\bin\Debug\netcoreapp3.1\RandomToken.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\RandomToken\bin\Debug\netcoreapp3.1\RandomToken.dll
+C:\Users\Marjorie\Desktop\RandomToken\bin\Debug\netcoreapp3.1\RandomToken.pdb
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.dll
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.pdb
+C:\Users\Marjorie\Desktop\RandomToken\obj\Debug\netcoreapp3.1\RandomToken.genruntimeconfig.cache

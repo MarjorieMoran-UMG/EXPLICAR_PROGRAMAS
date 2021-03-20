@@ -1,0 +1,26 @@
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.exe
+C:\Users\Marjorie\Desktop\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.deps.json
+C:\Users\Marjorie\Desktop\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\Marjorie\Desktop\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\Marjorie\Desktop\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.genruntimeconfig.cache
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.exe
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.deps.json
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\Marjorie\Desktop\Repasos Día 15.03.2021\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.genruntimeconfig.cache
